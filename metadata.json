@@ -1,0 +1,6 @@
+{
+  "name": "Sant Nirankari Mission Dombivli Zone 35-A - Satsang Directory",
+  "description": "Official Satsang directory and schedule portal for Sant Nirankari Mission Dombivli Zone 35-A devotees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
